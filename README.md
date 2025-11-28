@@ -1,2 +1,3 @@
 # community_app
-this is my community app
+this is my first community app
+Author - shahzaib
